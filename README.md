@@ -1,3 +1,18 @@
+# liveSkore
+
+liveSkore is a simple React application that provides live and upcoming scores of cricket matches from around the world. This project demonstrates the basic functionality of using React to create a dynamic and interactive web application.
+
+## For the Cricket Lovers, By the Cricket Lover
+
+For all the cricket lovers out there, liveSkore is the perfect app to keep you updated with live and upcoming cricket matches from around the world. Stay tuned to your favorite sport with ease!
+
+## Features
+
+- Displays live scores of ongoing cricket matches.
+- Shows upcoming matches with scheduled times.
+- Fetches data from a cricket scores API.
+- User-friendly interface with real-time updates.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
